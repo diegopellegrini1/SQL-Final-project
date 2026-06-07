@@ -28,6 +28,7 @@ Para realizar este proyecto he utilizado:
 - DBeaver --> Para trabajar con las consultas SQL y gestionar la base de datos.
 - Visual Studio Code --> Para trabajar con el README.
 - Git Hub Desktop --> Para subir mi trabajo final.
+- Herramientas de IA --> Para revisar mi trabajo, corregir errores tipográficos en el README y optimizar la presentación del proyecto.
 
 ## 5. Trabajo Realizado 📊
 En el archivo queries_sakila.sql he resuelto 64 consultas SQL que abarcan diferentes niveles de dificultad, desde consultas básicas hasta análisis más complejos con múltiples tablas. He aplicado conocimientos de:
